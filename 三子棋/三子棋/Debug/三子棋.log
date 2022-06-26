@@ -1,0 +1,25 @@
+﻿  game.c
+D:\经典例题\三子棋\三子棋\game.c(9,24): warning C4028: 形参 1 与声明不同
+D:\经典例题\三子棋\三子棋\game.c(28,24): warning C4028: 形参 1 与声明不同
+D:\经典例题\三子棋\三子棋\game.c(57,20): warning C4028: 形参 1 与声明不同
+D:\经典例题\三子棋\三子棋\game.c(89,22): warning C4028: 形参 1 与声明不同
+D:\经典例题\三子棋\三子棋\game.c(122,17): warning C4028: 形参 1 与声明不同
+  test.c
+D:\经典例题\三子棋\三子棋\test.c(19,20): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\经典例题\三子棋\三子棋\test.c(19,15): warning C4024: “Initialboard”: 形参和实参 1 的类型不同
+D:\经典例题\三子棋\三子棋\test.c(21,20): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\经典例题\三子棋\三子棋\test.c(21,15): warning C4024: “Displayboard”: 形参和实参 1 的类型不同
+D:\经典例题\三子棋\三子棋\test.c(33,17): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\经典例题\三子棋\三子棋\test.c(33,12): warning C4024: “Playergo”: 形参和实参 1 的类型不同
+D:\经典例题\三子棋\三子棋\test.c(34,21): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\经典例题\三子棋\三子棋\test.c(34,16): warning C4024: “Displayboard”: 形参和实参 1 的类型不同
+D:\经典例题\三子棋\三子棋\test.c(35,20): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\经典例题\三子棋\三子棋\test.c(35,15): warning C4024: “IsWin”: 形参和实参 1 的类型不同
+D:\经典例题\三子棋\三子棋\test.c(39,19): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\经典例题\三子棋\三子棋\test.c(39,14): warning C4024: “Computergo”: 形参和实参 1 的类型不同
+D:\经典例题\三子棋\三子棋\test.c(40,21): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\经典例题\三子棋\三子棋\test.c(40,16): warning C4024: “Displayboard”: 形参和实参 1 的类型不同
+D:\经典例题\三子棋\三子棋\test.c(41,20): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\经典例题\三子棋\三子棋\test.c(41,15): warning C4024: “IsWin”: 形参和实参 1 的类型不同
+  正在生成代码...
+  三子棋.vcxproj -> D:\经典例题\三子棋\Debug\三子棋.exe
